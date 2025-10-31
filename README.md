@@ -1,2 +1,2 @@
 # Terraform
-Terraform codebase for provisioning multi-environment (dev/stage/prod) cloud infrastructure using reusable modules.
+Scalable cloud infrastructure managed with Terraform and Terragrunt for consistent, multi-environment deployments.
